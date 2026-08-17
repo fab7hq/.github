@@ -8,4 +8,4 @@
 
 <p align="center">Ground decisions. Bound delegated work. Check evidence.</p>
 
-Fab7 keeps agentic software grounded, reviewed, and checkable through distinct evidence boundaries.
+<p align="center">Fab7 keeps agentic software grounded, reviewed, and checkable through distinct evidence boundaries.</p>
