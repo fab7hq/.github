@@ -9,7 +9,7 @@
 <p align="center">Ground decisions. Bound delegated work. Check evidence.</p>
 
 <p align="center">
-  <a href="https://getfab7.com"><strong>Explore getfab7.com</strong></a>
+  <a href="https://getfab7.com"><strong>Visit homepage</strong></a>
 </p>
 
 Fab7 keeps agentic software grounded, reviewed, and checkable through three distinct evidence boundaries.
@@ -18,6 +18,6 @@ Fab7 keeps agentic software grounded, reviewed, and checkable through three dist
 |:---:|:---:|:---:|
 | <img src="./assets/ringframe.jpg" width="260" alt="RingFrame scenario-fit plate"> | <img src="./assets/denim.jpg" width="260" alt="Denim bounded-work plate"> | <img src="./assets/cuff.jpg" width="260" alt="Cuff fail-closed evidence plate"> |
 | **Ground decisions.** Turn business questions into explicit knowledge, scenarios, and evaluation criteria. | **Bound delegated work.** Separate execution from review and keep closure under owner control. | **Check evidence.** Record exact verifier results against Git state and fail closed when evidence becomes stale. |
-| [Explore RingFrame](https://getfab7.com/products/ringframe) | [View Denim](https://github.com/fab7hq/denim) | [View Cuff](https://github.com/fab7hq/cuff) |
+| [View RingFrame](https://github.com/fab7hq/ringframe) | [View Denim](https://github.com/fab7hq/denim) | [View Cuff](https://github.com/fab7hq/cuff) |
 
 The chain is deliberate: RingFrame grounds what should be evaluated, Denim bounds who executes and reviews, and Cuff records what was actually checked.
